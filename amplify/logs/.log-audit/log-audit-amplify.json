@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/home/cloud_user/amplifyapp/amplify/logs/.log-audit/log-audit-amplify.json",
+    "files": [
+        {
+            "date": 1607650115252,
+            "name": "/home/cloud_user/amplifyapp/amplify/logs/amplify-cli-2020-12-11.log",
+            "hash": "8f6b222afc162e523bc2f81b555fa39a"
+        }
+    ]
+}
